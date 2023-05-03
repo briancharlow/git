@@ -1,0 +1,4 @@
+git checkout <branch>: switches to the specified branch.
+git merge <branch>: merges the specified branch into the current branch.
+git push: pushes changes to a remote repository.
+git pull: pulls changes from a remote repository
