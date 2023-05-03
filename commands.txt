@@ -1,0 +1,4 @@
+basic commands
+git init: initializes a new Git repository in the current directory.
+git add <file>: adds a file to the staging area.
+git commit -m "Commit message": commits the changes in the staging area with a commit message.
